@@ -1,3 +1,5 @@
 #!/bin/bash
-#ex2
+#ex6
+echo "start" 
+
 
