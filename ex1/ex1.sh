@@ -39,3 +39,4 @@ echo "Creating archive: $archive_name"
 zip -r "$archive_name" "$target_dir"
 
 echo "Process completed successfully."
+
